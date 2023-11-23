@@ -1,0 +1,49 @@
+Number of junction = 8
+
+Sheldon's tour (ending in same city as start) = IMPOSSIBLE
+Sheldon's tour (ending in different city as start) = IMPOSSIBLE
+
+Transitive closure = 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+Impossible to travel city pairs = 0
+
+Number of vital train tracks = 0
+
+Railway Station Upgrades: 
+
+Railway Station Upgrades = NOT POSSIBLE
+
+Distance between cityA and cityE = 3
+
+Railway Capital = cityG
+
+Maharaja Express tour starting from cityA = POSSIBLE
+Maharaja Express tour starting from cityB = POSSIBLE
+Maharaja Express tour starting from cityC = POSSIBLE
+Maharaja Express tour starting from cityD = POSSIBLE
+Maharaja Express tour starting from cityE = POSSIBLE
+Maharaja Express tour starting from cityF = POSSIBLE
+Maharaja Express tour starting from cityG = POSSIBLE
+Maharaja Express tour starting from cityH = POSSIBLE
+Maharaja Express tour starting from cityI = POSSIBLE
+Maharaja Express tour starting from cityJ = POSSIBLE
+Maharaja Express tour starting from cityK = POSSIBLE
+Maharaja Express tour starting from cityL = POSSIBLE
+Maharaja Express tour starting from cityM = POSSIBLE
+Maharaja Express tour starting from cityN = POSSIBLE
+Maharaja Express tour starting from cityO = POSSIBLE
