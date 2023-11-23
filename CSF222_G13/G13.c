@@ -389,7 +389,7 @@ bool maharaja_express(Graph *g, int source)
 
 int main()
 {
-    char input_file_path[100] = "../resources/testcases/testcase_4.txt"; // Can be modified
+    char input_file_path[100] = "../resources/testcases/testcase_1.txt"; // Can be modified
     Graph *g = create_graph(input_file_path);                            // Do not modify
 
     // Code goes here
